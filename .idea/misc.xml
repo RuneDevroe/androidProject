@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/activity_login.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/detail_pokemon_name.xml" value="0.8487394957983193" />
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/detail_user_in_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/login_fragment.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/main_fragment.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/pokedex_fragment.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/pokemon_detail_fragment.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/reset_user_password_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/RUNE/Documents/pokechamp1.0/app/src/main/res/layout/users_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/RUNE/Downloads/21-21-eindopdracht-RuneDevroe-master/21-21-eindopdracht-RuneDevroe-master/app/src/main/res/layout/pokedex_fragment.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/RUNE/Downloads/21-21-eindopdracht-RuneDevroe-master/21-21-eindopdracht-RuneDevroe-master/app/src/main/res/layout/pokemon_detail_fragment.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/RUNE/Downloads/21-21-eindopdracht-RuneDevroe-master/21-21-eindopdracht-RuneDevroe-master/app/src/main/res/layout/reset_user_password_fragment.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/RUNE/Downloads/21-22-herexamen-RuneDevroe-main/21-22-herexamen-RuneDevroe-main/app/src/main/res/layout/detail_pokemon_name.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/RUNE/Downloads/21-22-herexamen-RuneDevroe-main/21-22-herexamen-RuneDevroe-main/app/src/main/res/layout/detail_user_in_list.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/RUNE/Downloads/21-22-herexamen-RuneDevroe-main/21-22-herexamen-RuneDevroe-main/app/src/main/res/layout/main_fragment.xml" value="0.1328125" />
+        <entry key="..\:/Users/RUNE/Downloads/21-22-herexamen-RuneDevroe-main/21-22-herexamen-RuneDevroe-main/app/src/main/res/layout/pokedex_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/RUNE/Downloads/21-22-herexamen-RuneDevroe-main/21-22-herexamen-RuneDevroe-main/app/src/main/res/layout/pokemon_detail_fragment.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

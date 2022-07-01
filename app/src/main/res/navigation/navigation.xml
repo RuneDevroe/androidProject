@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    app:startDestination="@id/mainFragment"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="be.vives.pokechamp.main.MainFragment"
+        android:label="MainFragment"
+        tools:layout="@layout/main_fragment">
+        <action
+            android:id="@+id/action_mainFragment_to_pokedexFragment"
+            app:destination="@id/pokedexFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_loginActivity"
+            app:destination="@id/loginActivity" />
+        <action
+            android:id="@+id/action_mainFragment_to_usersFragment"
+            app:destination="@id/usersFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/pokedexFragment"
+        android:name="be.vives.pokechamp.pokedex.PokedexFragment"
+        android:label="pokedex_fragment"
+        tools:layout="@layout/pokedex_fragment" >
+        <action
+            android:id="@+id/action_pokedexFragment_to_pokemonDetailFragment"
+            app:destination="@id/pokemonDetailFragment" />
+    </fragment>
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="be.vives.pokechamp.LoginActivity"
+        android:label="LoginActivity" />
+    <fragment
+        android:id="@+id/usersFragment"
+        android:name="be.vives.pokechamp.users.UsersFragment"
+        android:label="UsersFragment" />
+    <fragment
+        android:id="@+id/pokemonDetailFragment"
+        android:name="be.vives.pokechamp.pokemonDetail.PokemonDetailFragment"
+        android:label="PokemonDetailFragment" >
+        <argument
+            android:name="result"
+            app:argType="be.vives.pokechamp.model.Results" />
+    </fragment>
+</navigation>
